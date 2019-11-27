@@ -1,0 +1,55 @@
+body {
+  color: white;
+}
+
+ul {
+  color: black;
+}
+
+.top-container {
+  background-color: grey;
+}
+
+span {
+  background-color: grey;
+}
+
+.top-articles {
+  display: flex;
+}
+
+#a2 {
+  background-color: black;
+}
+
+#a4 {
+  background-color: black;
+}
+
+.mid-1 {
+  display: flex;
+}
+
+#red-1 {
+  background-color: black;
+}
+
+#black-1 {
+  background-color: grey;
+}
+
+.mid-2 {
+  display: flex;
+}
+
+#black-2 {
+  background-color: grey;
+}
+
+#red-2 {
+  background-color: black;
+}
+
+.blue {
+  background-color: black;
+}
