@@ -2,6 +2,10 @@ body {
   color: white;
 }
 
+header {
+  margin-bottom: 5px;
+}
+
 ul {
   color: black;
 }
@@ -52,4 +56,8 @@ span {
 
 .blue {
   background-color: black;
+}
+
+.bottom-1 {
+  background-color: #484848;
 }
