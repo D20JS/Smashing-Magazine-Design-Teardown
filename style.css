@@ -11,7 +11,7 @@ ul {
 }
 
 .top-container {
-  background-color: grey;
+  background-color: #484848;
 }
 
 span {
@@ -60,4 +60,18 @@ span {
 
 .bottom-1 {
   background-color: #484848;
+}
+
+.bottom {
+  display: flex;
+}
+
+.bottom-2,
+.bottom-3,
+.bottom-4 {
+  background-color: grey;
+}
+
+.footer {
+  background-color: black;
 }
