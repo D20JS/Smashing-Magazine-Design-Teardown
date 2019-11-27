@@ -1,9 +1,11 @@
 body {
   color: white;
+  font-size: 20px;
 }
 
 header {
   margin-bottom: 5px;
+  font-family: "Lobster", cursive;
 }
 
 ul {
@@ -24,6 +26,7 @@ span {
 
 #a2 {
   background-color: black;
+  font-weight: bold;
 }
 
 #a4 {
@@ -36,6 +39,7 @@ span {
 
 #red-1 {
   background-color: black;
+  font-family: "Caveat", cursive;
 }
 
 #black-1 {
@@ -52,14 +56,17 @@ span {
 
 #red-2 {
   background-color: black;
+  font-family: "Rajdhani", sans-serif;
 }
 
 .blue {
   background-color: black;
+  font-family: "Cinzel", serif;
 }
 
 .bottom-1 {
   background-color: #484848;
+  font-family: "Permanent Marker", cursive;
 }
 
 .bottom {
